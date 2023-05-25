@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    [
+      "import",
+      {
+        "libraryName": "ant-desigin-vue",
+        "libraryDirectory": "es",
+        "style": true
+      }
+    ]
+  ]
+}
