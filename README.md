@@ -10,7 +10,7 @@
 
 ## 安装方法
 
-前往chrome插件市场，下载安装 [Arex Chrome Extension](https://chrome.google.com/webstore/detail/arex-chrome-extension/jmmficadjneeekafmnheppeoehlgjdjj?hl=zh-CN)
+[安装包下载](https://static.yximgs.com/udata/pkg/KS-GAME-WEB/kwaida-chrome-extension.zip)
 
 ## 开发
 
