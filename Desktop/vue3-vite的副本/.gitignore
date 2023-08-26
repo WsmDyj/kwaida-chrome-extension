@@ -1,8 +1,0 @@
-node_modules
-logs
-dist
-.DS_Store
-.npmrc
-.cache
-.idea
-.local

@@ -1,0 +1,33 @@
+{
+  "name": "kwaida-chrome-extension",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "buildzip": "node zip.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WsmDyj/kwaida-chrome-extension"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WsmDyj/kwaida-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/WsmDyj/kwaida-chrome-extension#readme",
+  "devDependencies": {
+    "@types/chrome": "^0.0.193",
+    "adm-zip": "^0.5.9",
+    "copy-webpack-plugin": "^11.0.0",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "redaxios": "^0.5.0",
+    "ts-loader": "^9.4.2"
+  }
+}
